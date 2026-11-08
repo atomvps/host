@@ -1,0 +1,39 @@
+{
+  "servers": {
+    "Test": {
+      "name": "Test",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-06T21:54:55.798938"
+    },
+    "HoLiC": {
+      "name": "HoLiC",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-07T14:33:06.197771"
+    }
+  },
+  "users": {
+    "ashu": {
+      "joined": "2026-11-08T13:24:10.496278",
+      "password_hash": "7cf5ed6993592ac9e6eabe0d4c5b379b23478ee9458e1644f10a2f10de6728d1"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#f04452",
+    "site_name": "HoLiC HOSTING",
+    "auto_restart_interval": 300
+  }
+}
